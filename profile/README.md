@@ -9,4 +9,4 @@ The advanced script protection project.
 
 ---
 
-© 2022-2023 Hykeem | © 2022-2023 Arts
+© 2022-2023 Hykeem Shooters | © 2022-2023 Arts Development
